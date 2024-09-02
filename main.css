@@ -26,11 +26,11 @@ body {
     top: 0;
     width: 100%;
     transform: translate(-100%);
-    transition: .3s;
+    transition: .5s;
 }
 .link span {
     display: block;
-    transition: .3s;
+    transition: .5s;
 }
 .link:hover::before {
     transform: translateX(0);
